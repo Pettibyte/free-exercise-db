@@ -49,6 +49,30 @@
     "id": "90_90_Hamstring"
   },
   {
+    "name": "90/90 Hip Stretch",
+    "force": "static",
+    "level": "beginner",
+    "mechanic": null,
+    "equipment": "body only",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "adductors",
+      "abductors"
+    ],
+    "instructions": [
+      "Sit on the floor with your front knee bent about 90 degrees and your shin angled across your body. Bend the opposite knee behind you so both legs form a comfortable 90/90 position.",
+      "Sit tall and keep both sitting bones as close to the floor as your mobility allows. Place your hands beside your hips for support.",
+      "Keeping your chest long and your back controlled, slowly hinge forward over the front leg until you feel a mild stretch around the hip and glute.",
+      "Hold the position for 20-30 seconds while breathing steadily. Do not force the knee or allow sharp pain.",
+      "Return to an upright position, change the leg arrangement, and repeat on the other side for 2-3 rounds."
+    ],
+    "category": "stretching",
+    "images": [],
+    "id": "90_90_Hip_Stretch"
+  },
+  {
     "name": "Ab Crunch Machine",
     "force": "pull",
     "level": "intermediate",
@@ -5007,6 +5031,30 @@
     "id": "Dead_Bug"
   },
   {
+    "name": "Dead Hang",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": null,
+    "equipment": "body only",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "forearms",
+      "middle back"
+    ],
+    "instructions": [
+      "Stand below a pull-up bar and take an overhand grip slightly wider than shoulder width. Use a step or jump carefully if you cannot reach the bar safely.",
+      "Hang with your arms straight and your feet off the floor. Keep your ribs controlled and allow your shoulders to lengthen without forcing them into pain.",
+      "Breathe steadily as you maintain a relaxed, stable hang. Keep your legs still and avoid swinging.",
+      "Hold for 10-30 seconds, or for as long as you can maintain a comfortable grip and shoulder position. Lower yourself with control."
+    ],
+    "category": "stretching",
+    "images": [],
+    "id": "Dead_Hang"
+  },
+  {
     "name": "Deadlift with Bands",
     "force": "pull",
     "level": "expert",
@@ -5348,6 +5396,30 @@
       "Decline_Smith_Press/1.jpg"
     ],
     "id": "Decline_Smith_Press"
+  },
+  {
+    "name": "Deep Squat Hold",
+    "force": "static",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "quadriceps",
+      "adductors",
+      "calves"
+    ],
+    "instructions": [
+      "Stand with your feet about shoulder width apart, or use a slightly wider stance if that feels more natural. Turn your toes out a little.",
+      "Bend your knees and lower your hips as far as you can while keeping your heels on the floor. Settle into a comfortable deep squat with your chest lifted.",
+      "Use your elbows to gently guide your knees outward, while keeping your knees aligned with your toes. Keep your spine long and breathe slowly.",
+      "Hold for 20-60 seconds. Rise by pressing through your feet, and use support or reduce the depth if you cannot keep your heels down comfortably."
+    ],
+    "category": "stretching",
+    "images": [],
+    "id": "Deep_Squat_Hold"
   },
   {
     "name": "Deficit Deadlift",
@@ -15511,6 +15583,31 @@
     "id": "Reverse_Plate_Curls"
   },
   {
+    "name": "Reverse Tabletop",
+    "force": "push",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps",
+      "abdominals",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Sit on the floor with your legs extended in front of you. Place your hands behind your hips with your fingers pointing toward your feet, or turn them slightly outward if needed for comfort.",
+      "Bend your knees and place your feet on the floor. Press your hands and feet down as you lift your hips until your torso and thighs form a nearly straight line.",
+      "Keep your shoulders away from your ears, draw your shoulder blades gently together, and brace your abdomen. Do not let your hips sag or your neck collapse backward.",
+      "Hold for 15-30 seconds while breathing normally. Lower your hips with control and repeat for 2-4 holds."
+    ],
+    "category": "strength",
+    "images": [],
+    "id": "Reverse_Tabletop"
+  },
+  {
     "name": "Reverse Triceps Bench Press",
     "force": "push",
     "level": "intermediate",
@@ -21949,6 +22046,29 @@
       "Walking_Treadmill/1.jpg"
     ],
     "id": "Walking_Treadmill"
+  },
+  {
+    "name": "Wall Sit",
+    "force": "static",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "calves"
+    ],
+    "instructions": [
+      "Stand with your back against a wall and place your feet about hip width apart, a step or two in front of you.",
+      "Slide your back down the wall until your hips and knees are close to 90-degree angles. Keep your knees above your ankles and your feet flat on the floor.",
+      "Brace your abdomen and press your back gently into the wall. Keep your shoulders relaxed and do not push on your thighs with your hands.",
+      "Hold for 20-60 seconds, or stop sooner if your form changes. Push through your feet to slide back up the wall."
+    ],
+    "category": "strength",
+    "images": [],
+    "id": "Wall_Sit"
   },
   {
     "name": "Weighted Ball Hyperextension",

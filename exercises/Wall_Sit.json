@@ -1,0 +1,23 @@
+{
+  "name": "Wall Sit",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "calves"
+  ],
+  "instructions": [
+    "Stand with your back against a wall and place your feet about hip width apart, a step or two in front of you.",
+    "Slide your back down the wall until your hips and knees are close to 90-degree angles. Keep your knees above your ankles and your feet flat on the floor.",
+    "Brace your abdomen and press your back gently into the wall. Keep your shoulders relaxed and do not push on your thighs with your hands.",
+    "Hold for 20-60 seconds, or stop sooner if your form changes. Push through your feet to slide back up the wall."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Wall_Sit"
+}

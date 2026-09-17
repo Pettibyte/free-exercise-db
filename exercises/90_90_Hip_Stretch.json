@@ -1,0 +1,24 @@
+{
+  "name": "90/90 Hip Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "abductors"
+  ],
+  "instructions": [
+    "Sit on the floor with your front knee bent about 90 degrees and your shin angled across your body. Bend the opposite knee behind you so both legs form a comfortable 90/90 position.",
+    "Sit tall and keep both sitting bones as close to the floor as your mobility allows. Place your hands beside your hips for support.",
+    "Keeping your chest long and your back controlled, slowly hinge forward over the front leg until you feel a mild stretch around the hip and glute.",
+    "Hold the position for 20-30 seconds while breathing steadily. Do not force the knee or allow sharp pain.",
+    "Return to an upright position, change the leg arrangement, and repeat on the other side for 2-3 rounds."
+  ],
+  "category": "stretching",
+  "images": [],
+  "id": "90_90_Hip_Stretch"
+}

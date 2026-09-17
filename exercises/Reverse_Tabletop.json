@@ -1,0 +1,25 @@
+{
+  "name": "Reverse Tabletop",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps",
+    "abdominals",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Sit on the floor with your legs extended in front of you. Place your hands behind your hips with your fingers pointing toward your feet, or turn them slightly outward if needed for comfort.",
+    "Bend your knees and place your feet on the floor. Press your hands and feet down as you lift your hips until your torso and thighs form a nearly straight line.",
+    "Keep your shoulders away from your ears, draw your shoulder blades gently together, and brace your abdomen. Do not let your hips sag or your neck collapse backward.",
+    "Hold for 15-30 seconds while breathing normally. Lower your hips with control and repeat for 2-4 holds."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Reverse_Tabletop"
+}

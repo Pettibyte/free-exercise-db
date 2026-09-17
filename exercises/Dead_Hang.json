@@ -1,0 +1,24 @@
+{
+  "name": "Dead Hang",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "forearms",
+    "middle back"
+  ],
+  "instructions": [
+    "Stand below a pull-up bar and take an overhand grip slightly wider than shoulder width. Use a step or jump carefully if you cannot reach the bar safely.",
+    "Hang with your arms straight and your feet off the floor. Keep your ribs controlled and allow your shoulders to lengthen without forcing them into pain.",
+    "Breathe steadily as you maintain a relaxed, stable hang. Keep your legs still and avoid swinging.",
+    "Hold for 10-30 seconds, or for as long as you can maintain a comfortable grip and shoulder position. Lower yourself with control."
+  ],
+  "category": "stretching",
+  "images": [],
+  "id": "Dead_Hang"
+}
