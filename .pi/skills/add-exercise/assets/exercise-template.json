@@ -1,0 +1,20 @@
+{
+  "name": "<Display Name>",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "<Setup: body position, hand position, foot position.>",
+    "<Action: what to do, with the condition stated before the command.>",
+    "<Hold or reps: for example, Hold for 20-60 seconds.>",
+    "<Safety limit: stop on sharp pain, or a form cue.>"
+  ],
+  "category": "stretching",
+  "images": [],
+  "id": "<Id>"
+}
