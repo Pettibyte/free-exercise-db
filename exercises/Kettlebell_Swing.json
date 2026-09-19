@@ -1,0 +1,27 @@
+{
+  "name": "Kettlebell Swing",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back",
+    "abdominals",
+    "shoulders"
+  ],
+  "instructions": [
+    "Stand with your feet slightly wider than shoulder width. Place one kettlebell on the floor about one foot in front of you.",
+    "Hinge at the hips with a flat back and grip the handle with both hands. If your lower back rounds, do not hinge as far down.",
+    "Bend your knees slightly and swing the kettlebell back between your legs. Push your hips back and let your arms stay straight and relaxed.",
+    "Snap your hips forward and stand tall. Drive the kettlebell up to about chest height with your hips, then squeeze your glutes at the top. Do not lift the kettlebell with your arms.",
+    "Let the kettlebell fall back down and between your legs, then hinge again at once. Do 8-15 repetitions and keep your breathing sharp on each hip drive.",
+    "Stop if you feel sharp pain in your lower back. Do not swing the kettlebell above shoulder height, and do not add repetitions when your form breaks down."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Kettlebell_Swing"
+}

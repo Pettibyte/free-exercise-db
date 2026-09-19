@@ -6011,6 +6011,32 @@
     "id": "Dumbbell_Flyes"
   },
   {
+    "name": "Dumbbell Hip Thrust",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "calves",
+      "abdominals"
+    ],
+    "instructions": [
+      "Sit on the floor with your knees bent and a bench or a sturdy box behind you. Place one heavy dumbbell across your hips. Put a folded towel or a pad between the dumbbell and your body to reduce pressure.",
+      "Lean back until your upper back rests against the bench near the top edge. Keep both feet flat on the floor, about shoulder width apart.",
+      "If the dumbbell rolls, steady it with both hands. Keep your core tight and your ribs down through the whole set.",
+      "Drive through your heels and lift your hips until your body forms a straight line from your shoulders to your knees. Squeeze your glutes hard at the top.",
+      "Keep your gaze forward. Do not arch your lower back to reach higher. If your lower back rises before your hips do, stop the set.",
+      "Lower your hips until they touch the floor, then repeat. Do 8-15 repetitions and rest 60-90 seconds between sets."
+    ],
+    "category": "strength",
+    "images": [],
+    "id": "Dumbbell_Hip_Thrust"
+  },
+  {
     "name": "Dumbbell Incline Row",
     "force": "pull",
     "level": "beginner",
@@ -10056,6 +10082,33 @@
       "Kettlebell_Sumo_High_Pull/1.jpg"
     ],
     "id": "Kettlebell_Sumo_High_Pull"
+  },
+  {
+    "name": "Kettlebell Swing",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "kettlebells",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "lower back",
+      "abdominals",
+      "shoulders"
+    ],
+    "instructions": [
+      "Stand with your feet slightly wider than shoulder width. Place one kettlebell on the floor about one foot in front of you.",
+      "Hinge at the hips with a flat back and grip the handle with both hands. If your lower back rounds, do not hinge as far down.",
+      "Bend your knees slightly and swing the kettlebell back between your legs. Push your hips back and let your arms stay straight and relaxed.",
+      "Snap your hips forward and stand tall. Drive the kettlebell up to about chest height with your hips, then squeeze your glutes at the top. Do not lift the kettlebell with your arms.",
+      "Let the kettlebell fall back down and between your legs, then hinge again at once. Do 8-15 repetitions and keep your breathing sharp on each hip drive.",
+      "Stop if you feel sharp pain in your lower back. Do not swing the kettlebell above shoulder height, and do not add repetitions when your form breaks down."
+    ],
+    "category": "strength",
+    "images": [],
+    "id": "Kettlebell_Swing"
   },
   {
     "name": "Kettlebell Thruster",

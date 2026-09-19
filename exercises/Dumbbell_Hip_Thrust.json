@@ -1,0 +1,26 @@
+{
+  "name": "Dumbbell Hip Thrust",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves",
+    "abdominals"
+  ],
+  "instructions": [
+    "Sit on the floor with your knees bent and a bench or a sturdy box behind you. Place one heavy dumbbell across your hips. Put a folded towel or a pad between the dumbbell and your body to reduce pressure.",
+    "Lean back until your upper back rests against the bench near the top edge. Keep both feet flat on the floor, about shoulder width apart.",
+    "If the dumbbell rolls, steady it with both hands. Keep your core tight and your ribs down through the whole set.",
+    "Drive through your heels and lift your hips until your body forms a straight line from your shoulders to your knees. Squeeze your glutes hard at the top.",
+    "Keep your gaze forward. Do not arch your lower back to reach higher. If your lower back rises before your hips do, stop the set.",
+    "Lower your hips until they touch the floor, then repeat. Do 8-15 repetitions and rest 60-90 seconds between sets."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Dumbbell_Hip_Thrust"
+}
