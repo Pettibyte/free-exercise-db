@@ -1,0 +1,27 @@
+{
+  "name": "Dumbbell Alternating Renegade Row",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "biceps",
+    "chest",
+    "lats",
+    "triceps"
+  ],
+  "instructions": [
+    "Place two dumbbells on the floor about shoulder width apart. Grip the handles and take a high-plank position on your toes, with your body straight from head to heels.",
+    "If your hips rotate or your lower back sags, widen your feet or use lighter dumbbells. Press one dumbbell firmly into the floor to support your body.",
+    "Row the other dumbbell toward your side by pulling your elbow back. Keep your working shoulder blade pulled toward your spine.",
+    "Lower the dumbbell to the floor with control, then row the dumbbell in your other hand. Keep your hips square to the floor throughout the movement.",
+    "Do 6-12 repetitions on each side. Stop if you feel sharp pain in your shoulders, wrists, or lower back."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Dumbbell_Alternating_Renegade_Row"
+}
